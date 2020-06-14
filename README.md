@@ -10,7 +10,7 @@ Then the ATM
              -> 5000 notes 12900/5000 = 2 notes => 2900
              -> 1000 notes  2900/1000 = 2 notes =>  900
              ->  500 notes   900/500  = 1 notes =>  400
-             ->  100 notes   400/100  = 4 notes =>  100
+             ->  100 notes   400/100  = 4 notes =>  0
 
 
 
